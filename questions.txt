@@ -1,0 +1,24 @@
+Dcoker
+add and copy 
+entry point and command 
+what is docker compass 
+variable and secert
+
+Kubernatest 
+
+what are POD
+what is cluster 
+what is service
+what is deployment 
+definition file - YAML 
+
+AWS -
+what is S3
+what type of EC2 - reserver or on demand
+Envrionment monitoriing
+Building a new envrionnent 
+Cloud formation template 
+Patching 
+Performace 
+Cost Analysis tool
+
